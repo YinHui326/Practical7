@@ -1,0 +1,4 @@
+#Tue Aug 11 19:46:00 AST 2020
+base.0=C\:\\Users\\HUAWEI\\Practical 7\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
